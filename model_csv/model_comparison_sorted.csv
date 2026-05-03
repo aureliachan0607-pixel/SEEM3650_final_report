@@ -1,0 +1,7 @@
+Model,Threshold,Accuracy,Precision,Recall,F1,ROC_AUC
+Logistic Regression (balanced),0.5,0.7433,0.1237,0.6356,0.2071,0.6974
+Decision Tree (balanced),0.5,0.6463,0.0831,0.5689,0.145,0.7022
+Random Forest (balanced),0.5,0.7536,0.1074,0.5022,0.177,0.6884
+Logistic Regression,0.5,0.9437,0.2727,0.04,0.0698,0.7131
+Decision Tree,0.5,0.9466,0.2857,0.0089,0.0172,0.7051
+Random Forest,0.5,0.9475,1.0,0.0044,0.0088,0.7103

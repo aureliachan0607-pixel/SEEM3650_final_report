@@ -1,0 +1,5 @@
+Model,Threshold,Accuracy,Precision,Recall,F1,ROC_AUC
+Random Forest (balanced),0.5,0.7536,0.1074,0.5022,0.177,0.6884
+Random Forest (balanced),0.4,0.654,0.0946,0.6489,0.1652,0.6884
+Random Forest (balanced),0.3,0.5422,0.0785,0.7156,0.1415,0.6884
+Random Forest (balanced),0.2,0.3575,0.065,0.8356,0.1206,0.6884
